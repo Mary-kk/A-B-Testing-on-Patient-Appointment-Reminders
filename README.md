@@ -1,4 +1,4 @@
-# A-B-Testing-on-Patient-Appointment-Reminders
+# A/B Testing-on-Patient-Appointment-Reminders
 
 Analysed 100,000+ appointments to assess the impact of SMS reminders on no-show rates, finding an unexpected increase (27.57% vs. 16.70%).
 
